@@ -1,0 +1,31 @@
+.card {
+    background: #fff;
+    box-shadow: 0 2px 4px 0 #eeeeee;
+    width: 100%;
+    padding: 24px 16px;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.description {
+    font-size: 16px;
+}
+
+.flexCenterXContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.flexColContainer{
+    display: flex;
+    flex-direction: column; 
+    text-align: initial;
+    gap: 10px;
+}
